@@ -13,11 +13,11 @@ The NY City bike data source needs the trip duration converted to a datetime for
 ## Deliverable 2
 * How long the bikes checked out for all riders and genders can be explored with the following Tableau VIZ.
 
+![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_checkout_times_for_users.PNG)
+
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_checkout_times_for_users_gender.PNG)
 
 * How many trips are taken by the hour for each day of the week, for all riders and genders
-
-![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_checkout_times_for_users.PNG)
 
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_tripsbyweekday_byhr.PNG)
 
