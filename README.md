@@ -21,8 +21,8 @@ The NY City bike data source needs the trip duration converted to a datetime for
 
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_tripsbyweekday_byhr.PNG)
 
-![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_tripsbygender_byweekday.PNG)
+![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_tripsbyweekday_byhr_bygender.PNG)
 
 * Breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
-![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_tripsbyweekday_byhr_bygender.PNG)
+![alt text](https://github.com/jj2773/bikesharing/blob/main/deliv2_tripsbygender_byweekday.PNG)
