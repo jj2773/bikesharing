@@ -6,7 +6,7 @@ Tableau Public VIZ for Bike Share in Des Moines Iowa
 ## Deliverable 1 
 The NY City bike data source needs the trip duration converted to a datetime format for our usage in Tableau.  A Jupyter Notebook NYC_CitiBike_Challenge.ipynb was leveraged to import the data set file 2019-08-citibike-tripdata.csv, add the desired trip duration field of datetime format, and then save that out as a new file named citbike_data.csv.
 
-![alt text](https://github.com/jj2773/bikesharing/blob/main/deliverable1_tripduration_datetime.PNG)
+![alt text](https://github.com/jj2773/bikesharing/blob/main/deliverable1_tripduration_datetime.png)
 
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/citibike_df_head_image.PNG)
 
