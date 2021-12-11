@@ -11,8 +11,7 @@ The NY City bike data source needs the trip duration converted to a datetime for
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/images/citibike_df_head_image.PNG)
 
 ## Deliverable 2
-Key insights of the bike data can be interactively explored at:
-[https://public.tableau.com/app/profile/jonathan.jones5342/viz/NYCBikeChallengeDeliverable2/NYCitiBikeChallengeDeliverable2Analysis?publish=yes] 'NY CitiBike Challenge Deliverable 2 Analysis'
+Key insights of the bike data can be interactively explored at: [NY CitiBike Challenge Deliverable 2 Analysis] (https://public.tableau.com/app/profile/jonathan.jones5342/viz/NYCBikeChallengeDeliverable2/NYCitiBikeChallengeDeliverable2Analysis?publish=yes)
 
 * How long the bikes were checked out for all riders and gender.
 
