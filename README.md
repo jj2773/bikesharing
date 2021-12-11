@@ -13,11 +13,10 @@ The NY City bike data source needs the trip duration converted to a datetime for
 ## Deliverable 2
 Key insights of the bike data can be interactively explored at: [NY CitiBike Challenge Deliverable 2 Analysis](https://public.tableau.com/app/profile/jonathan.jones5342/viz/NYCBikeChallengeDeliverable2/NYCitiBikeChallengeDeliverable2Analysis?publish=yes). In summary the following keypoints can be made for each image.
 
-* How long the bikes were checked out for all riders and gender.
-** Most checkout times are less than 30mins.
+* For the question of how long the bikes were checked out for all riders and gender, we can see in the VIZ that most checkout times are less than 30mins.  Additionally, the bike trips for males were the majority and longest.
+
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/images/deliv2_checkout_times_for_users.PNG)
 
-** Males have the majority and longest bike trips.
 ![alt text](https://github.com/jj2773/bikesharing/blob/main/images/deliv2_checkout_times_for_users_gender.PNG)
 
 * How many trips are taken by the hour for each day of the week, for all riders and genders
